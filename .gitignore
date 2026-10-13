@@ -25,3 +25,9 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Local agent and Laravel Boost tooling
+/.agents/
+/AGENTS.md
+/CLAUDE.md
+/boost.json
